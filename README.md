@@ -15,6 +15,7 @@ https://suibe-blockchain.github.io/blockchain_diet_alliance/
 **[ ✅]** 首页要有Github Source Link（右上角）
 
 **[ ✅]** 版权声明与脚注链接
+
 **[ x ]** 页面网站图标
 
 ## 基础技术栈
