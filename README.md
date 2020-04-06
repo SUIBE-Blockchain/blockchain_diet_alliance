@@ -1,5 +1,7 @@
 # Blockchain Diet Alliance
-2020 挑战杯项目：基于区块链的餐饮联盟
+2020 挑战杯项目：基于区块链的餐饮联盟：
+
+https://suibe-blockchain.github.io/blockchain_diet_alliance/
 
 ## 简介
 本项目用于上海对外经贸大学·区块链研究中心参与「2020 年全国大学生挑战杯」的作品的导航页及启动脚本。
