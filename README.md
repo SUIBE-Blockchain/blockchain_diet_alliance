@@ -8,9 +8,11 @@
 
 以下是本项目的 TotoList：
 
-[√] ……
+**[√]** Github Pages
 
-[√] ……
+**[√]** 首页要有Github Source Link（右上角）
+
+**[√]** 版权声明
 
 ## 基础技术栈
 
