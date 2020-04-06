@@ -24,3 +24,7 @@ Application Level: Python3 + Flask + Sqlite
 
 ## Contributor
 
+- [李大狗](https://github.com/leeduckgo)
+- [高得泷](https://github.com/Gode-nice)
+- [王宁波](https://github.com/QQandBB)
+- [许晴](https://github.com/wjkxq)
