@@ -3,6 +3,8 @@
 
 https://suibe-blockchain.github.io/blockchain_diet_alliance/
 
+![](https://img.shields.io/badge/SUIBE--B-CopyRight-blue)
+
 ## 简介
 本项目用于上海对外经贸大学·区块链研究中心参与「2020 年全国大学生挑战杯」的作品的导航页及启动脚本。
 
@@ -17,6 +19,8 @@ https://suibe-blockchain.github.io/blockchain_diet_alliance/
 **[ ✅]** 版权声明与脚注链接
 
 **[ ✅]** 页面网站图标
+
+**[ ✅]** SUIBE专属徽章━(*｀∀´*)ノ亻!
 
 ## 基础技术栈
 
